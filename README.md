@@ -8,6 +8,8 @@ Project Description: Core Idea of Project is to build an sample prototype Educat
 We are using Azure Technologies with GitHub to complete this project. We have used QNA maker portal to create a knowledge base.
 We trained and tested our knowledge base, then created and deployed the bot using azure bot service. Finally we successfully deployed the website on azure using azure static web apps. Azure modules and dependencies for project are static web apps, azure bot service, & QNA maker portal.
 
+          [FOR BETTER EXPERIENCE USE LAPTOP/DESKTOP]
+          
 Primary Azure Technologies: Azure Bot Service, QnA Maker, Azure static Web apps
 
 You can check live project here: https://sitwebstorage.z13.web.core.windows.net
