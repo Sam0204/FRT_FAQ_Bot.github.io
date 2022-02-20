@@ -1,5 +1,7 @@
 An educational website which is having a FAQ bot created using Azure Bot services and deployed on azure using azure static web apps
+
 Industry: Ed-Tech
+
 Project Title: Website for an educational institute with FAQ bot
 
 Problem Statement/Opportunity: An educational institute wants to build a sample Front End prototype website for their institute. To build a whole website they have chosen Azure Cloud Platform. Website is having a chatbot to address all queries/questions related to institute.
