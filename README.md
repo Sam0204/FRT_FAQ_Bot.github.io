@@ -18,7 +18,7 @@ You can check live project here: https://sitwebstorage.z13.web.core.windows.net
 
 You can check FAQ BOT here: https://sitwebstorage.z13.web.core.windows.net/FAQ.html 
 
-Project demo video link on youtube: https://youtu.be/buVcMPT7EKo
+Project demo video link on youtube: https://www.youtube.com/watch?v=pYZAyG_N9eo
 
 link to gitHub repository:https://github.com/Sam0204/FRT_FAQ_Bot
 
