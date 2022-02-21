@@ -31,3 +31,4 @@ link to gitHub repository:https://github.com/Sam0204/FRT_FAQ_Bot
 ![Capture4](https://user-images.githubusercontent.com/97906758/154845321-c8c2bdf2-2643-40e8-9c0a-bceee8bd4020.PNG)
 ![Capture5](https://user-images.githubusercontent.com/97906758/154845327-6f0d9ca2-68d8-4366-881d-098ff0d589d4.PNG)
 ![Capture6](https://user-images.githubusercontent.com/97906758/154845330-41ce63c7-7066-4c7f-bb55-7bd67f6b1ffe.PNG)
+![Capture7](https://user-images.githubusercontent.com/97906758/154987039-98b79b39-4db4-4e34-b749-5039c0c6f0d3.PNG)
